@@ -1,5 +1,5 @@
 # Weblogic_SSRF
-A pyhon script to do port scan via weblogic uuid
+A python script to do port scan via weblogic uuid
 
 CVE-2014-4241
 
